@@ -5,10 +5,7 @@
 
 ---
 
-```
-  [ Hardware & Power ] ────► [ Embedded Firmware ] ────► [ Low-Level Systems ] ────► [ AI Code Auditing ]
-  Transformers & Buck Reg.        ESP32 & Biometrics            C/C++, SIMD, Solvers        Memory Safety & Math Invariants
-```
+> Bridging **physical hardware constraints** (power electronics, microcontrollers, grid infrastructure) with **high-performance systems** (C/C++, SIMD, memory management, and deterministic AI reasoning evaluation).
 
 ---
 
